@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.iframe {
+    width: 52%;
+}
+
+iframe {
+    width: 100%;
+    height: 700px;
+}
+
+.wrapper {
+    width: 48%;
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+}
